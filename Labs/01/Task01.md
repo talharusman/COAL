@@ -1,5 +1,5 @@
 ## Task01:
-...asm
+``` asm
 include irvine32.inc
 .data
 val1 WORD ?
@@ -12,6 +12,6 @@ val2 SBYTE -11
   exit
 main endp
 end main 
-...
+```
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/2fcf98ef-a345-4efd-9bb0-b1482a7ed323)
