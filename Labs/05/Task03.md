@@ -1,5 +1,6 @@
 # code
 ```
+;We have to multiply 2 with normal indexing to access word array value and 4 to access dword array value.
 include Irvine32.inc
 .data
     arr1 BYTE 61, 43, 11, 52, 25  
