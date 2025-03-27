@@ -1,5 +1,5 @@
 # code 
-```
+``` asm
 include irvine32.inc
 .data
 	arr1 dword 12,32,23,54,25
