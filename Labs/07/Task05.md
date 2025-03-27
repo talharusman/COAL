@@ -1,5 +1,5 @@
 # code 
-```
+``` asm
 include irvine32.inc
 .data
 	m1 byte "Enter Natural Number: ",0
