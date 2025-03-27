@@ -1,5 +1,5 @@
 # code
-```
+``` asm
 include irvine32.inc
 .data
 	cols dword 5
